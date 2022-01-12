@@ -1,0 +1,14 @@
+{
+  "CSS Reset": {
+    "prefix": "css-reset",
+    "body": [
+      "",
+      "* {",
+      "    margin: 0;",
+      "    padding: 0;",
+      "    box-sizing: border-box;",
+      "}"
+    ],
+    "description": "Resets the CSS for all browsers"
+  }
+}
