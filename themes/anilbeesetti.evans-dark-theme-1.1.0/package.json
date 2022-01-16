@@ -1,0 +1,55 @@
+{
+	"name": "evans-dark-theme",
+	"displayName": "Evans Dark Theme",
+	"description": "Dark is the new light.",
+	"publisher": "AnilBeesetti",
+	"author": {
+		"name": "Anil Beesetti",
+		"email": "anilbeesetti10@gmail.com"
+	},
+	"repository": {
+		"type": "github",
+		"url": "https://github.com/attitudeanil/Evans-Dark-Theme"
+	},
+	"version": "1.1.0",
+	"keywords": [
+		"dark",
+		"theme",
+		"dark theme",
+		"evans",
+		"evans dark theme",
+		"wolf",
+		"wolf theme",
+		"green",
+		"green theme",
+		"edna",
+		"edna theme",
+		"one dark",
+		"monkai",
+		"cobalt",
+		"atom"
+	],
+	"engines": {
+		"vscode": "^1.22.0"
+	},
+	"icon": "screeshots/Icons/icons.png",
+	"categories": [
+		"Themes"
+	],
+	"contributes": {
+		"themes": [
+			{
+				"label": "Evans Dark Theme",
+				"uiTheme": "vs-dark",
+				"path": "./themes/evans-dark-theme.json"
+			}
+		]
+	},
+	"__metadata": {
+		"id": "71ec7073-2468-4268-b28a-022bbd5adc06",
+		"publisherId": "96e43b11-c49a-4ec5-bf90-71b46f92796b",
+		"publisherDisplayName": "AnilBeesetti",
+		"isPreReleaseVersion": false,
+		"installedTimestamp": 1642299722186
+	}
+}
